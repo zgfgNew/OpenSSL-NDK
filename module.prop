@@ -1,0 +1,7 @@
+id=OpenSSL-NDK
+name=OpenSSL (NDK)
+version=v1.1.1l
+versionCode=11112
+author=zgfg @ xda
+description=Static NDK OpenSSL v1.1.1l binary, supporting ARMv7 and higher. Credits to robertying @ github for pre-built libraries at https://github.com/robertying/openssl-curl-android
+ 
